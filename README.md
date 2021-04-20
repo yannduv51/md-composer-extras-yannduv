@@ -61,11 +61,4 @@ For more informations, see:
 
 ## Credits
 
-Wrap support by thw26: https://github.com/thw26
-
-<br>
-
-I took some parts of the Iconified Header Links and Slick Image Gallery theme components made by Johani : 
-
-https://meta.discourse.org/t/iconified-header-links/86307 (adding fa5 icons in the theme component)
-https://meta.discourse.org/t/slick-image-gallery/81952 (manager the translations inside the theme component)
+https://github.com/iunctis/md-composer-extras
